@@ -1,5 +1,3 @@
-# DUYANH
-made in vietnam
 print("Break");
 local v0 = require(game:GetService("ReplicatedStorage").Notification);
 v0.new("<Color=Cyan>Welcome to DUYANH Hub<Color=/>"):Display();
